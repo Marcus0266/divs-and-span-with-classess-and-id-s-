@@ -1,0 +1,41 @@
+body {
+background-color: cornflowerblue;
+
+}
+
+p{
+    color: black;
+
+}
+
+.intro {
+  font-size: 30px;
+}
+
+.highlight {
+    background: yellow;
+}
+.accent-color{
+    color: red;
+}
+h1{
+
+font-size: 70px;
+
+}
+div{
+    width: 500px;
+    height: 500px;
+}
+
+span{
+    color: blue;
+    font-size: 40px;
+}
+.top-section {
+background: pink;
+
+}
+#bottom-section{
+    background: orange;
+}
